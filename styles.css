@@ -1,19 +1,19 @@
 body {
-  background-color: #CDDEFF;
+  background-color: #DDDDDD;
 }
 
 h1 {
-  color: rebeccapurple;
+  color: #06113C;
 }
 
 h3 {
-  color: rebeccapurple;
+  color: #000D6B;
 }
 
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
+  border-color: blue;
   border-width: 5px;
   width: 5%;
 }
@@ -24,7 +24,7 @@ hr {
 
 .hr_profile {
   border-top-style: inset;
-  border-color: grey;
+  border-color: blue;
   border-width: 3px;
   width: 100%;
 }
