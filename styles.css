@@ -1,0 +1,23 @@
+body {
+  background-color: #CDDEFF;
+}
+
+h1 {
+  color: rebeccapurple;
+}
+
+h3 {
+  color: rebeccapurple;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.profile-pic {
+  border-radius: 100%;
+}
