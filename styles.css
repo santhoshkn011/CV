@@ -21,3 +21,10 @@ hr {
 .profile-pic {
   border-radius: 100%;
 }
+
+.hr_profile {
+  border-top-style: inset;
+  border-color: grey;
+  border-width: 3px;
+  width: 100%;
+}
